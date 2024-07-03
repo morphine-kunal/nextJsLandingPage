@@ -37,7 +37,7 @@ export default function Home() {
         <div className="mb-28 flex flex-col gap-y-16 md:gap-y-8">
           <div className="relative overflow-hidden">
             <Image src={"/logo.svg"} alt="logo" width={300} height={300} />
-            <span className="absolute -bottom-2 right-4 md:right-12 text-sm text-[#17726D]">
+            <span className="absolute bottom-1 right-4 md:right-12 text-sm text-[#17726D]">
               Platform
             </span>
           </div>
